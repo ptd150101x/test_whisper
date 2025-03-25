@@ -1,0 +1,4 @@
+[
+    {"audio_filepath": "test.wav", "offset": 0, "duration": 10000},
+    {"audio_filepath": "test1.wav", "offset": 0, "duration": 10000}
+]
